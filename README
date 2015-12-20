@@ -1,0 +1,9 @@
+This project represents a software development project.
+
+The project has an object for books
+
+It has an object for a library
+
+It loads books into each library
+
+It allows a very simple and crude search of the libraries for a specific book.

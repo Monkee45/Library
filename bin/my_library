@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 require_relative '../lib/library/library'
 require_relative '../lib/library/book'
 require 'CSV'
